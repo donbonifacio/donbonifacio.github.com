@@ -1,0 +1,241 @@
+{
+  "basics": {
+    "name": "Pedro Pereira Santos",
+    "label": "Lead Code Detonator",
+    "picture": "",
+    "email": "donbonifacio@gmail.com",
+    "phone": "",
+    "website": "http://donbonifacio.github.com",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Lisbon",
+      "countryCode": "PT",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "donbonifacio",
+        "url": "https://twitter.com/donbonifacio"
+      },
+      {
+        "network": "Medium",
+        "username": "donbonifacio",
+        "url": "https://medium.com/@donbonifacio"
+      },
+      {
+        "network": "Github",
+        "username": "donbonifacio",
+        "url": "https://github.com/donbonifacio"
+      },
+      {
+        "network": "Linkedin",
+        "username": "donbonifacio",
+        "url": "https://pt.linkedin.com/in/donbonifacio"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "ClanHR",
+      "position": "Tribal Chieftain",
+      "website": "http://clanhr.com",
+      "startDate": "April 2015",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "company": "InvoiceXpress",
+      "position": "Lead Software Engineer",
+      "website": "http://invoicexpress.com",
+      "startDate": "June 2013",
+      "endDate": "March 2015",
+      "summary": "I led the talented development team of InvoiceXpress. I wa responsible for a development process that includes unit testing, daily builds and code reviews via pull requests.",
+      "highlights": []
+    },
+    {
+      "company": "InvoiceXpress",
+      "position": "Web Engineer",
+      "website": "http://invoicexpress.com",
+      "startDate": "October 2011",
+      "endDate": "June 2013",
+      "summary": "Full-stack developer at InvoiceXpress. I've worked on several features like alerts, reports, payment gateways, rails migration from 2.2 to 2.3.x, optimizations in the application and on the database. I also squash bugs and work daily with my team mates to make IX a great project.",
+      "highlights": []
+    },
+    {
+      "company": "ZiYu Studios",
+      "position": "Software Engineer",
+      "website": "",
+      "startDate": "May 2005",
+      "endDate": "December 2011",
+      "summary": "With a group of teammates we produce several web applications and play around with new technologies and concepts. We apply SEO concepts and test web marketing ideas.",
+      "highlights": []
+    },
+    {
+      "company": "Vortix Games Studio",
+      "position": "Lead Code Detonator",
+      "website": "",
+      "startDate": "October 2010",
+      "endDate": "September 2011",
+      "summary": "Game developer, mainly browser games and flash games. Worked on the Adventures of Dear Explorer, Atomik Kaos 3, Kite and Koi Pond. Also worked on a proof of concept for a mmo browser game.",
+      "highlights": []
+    },
+    {
+      "company": "ClusterCube Lda.",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "November 2010",
+      "endDate": "February 2011",
+      "summary": "Web applications developer, mainly working with .NET 4.0, ASP.NET MVC, Razor and Code First.",
+      "highlights": []
+    },
+    {
+      "company": "PDM&FC",
+      "position": "Software Engineer",
+      "website": "http://www.pdmfc.com/",
+      "startDate": "May 2007",
+      "endDate": "September 2010",
+      "summary": "Web applications developer. Did some outsourcing to Sonaecom on the first year, and after that I was responsible for the implementation of iPCTN, an online questionnaire for all the Portuguese companies that are involved in R&D.  I've also participated on the team of the new version of Orion's Belt, a browser based tactical MMO. I did outsourcing to Sinfic anda participated on several internal projects.",
+      "highlights": []
+    },
+    {
+      "company": "Orion's Belt 2.0",
+      "position": "Product Manager",
+      "website": "http://orionsbelt.eu",
+      "startDate": "May 2008",
+      "endDate": "August 2010",
+      "summary": "Responsible for the production of the second version of the award winning MMO browser gamer Orion's Belt. Responsibilities included: game design, architecture specification and implementation, and game promotion.",
+      "highlights": []
+    },
+    {
+      "company": "Sinfic",
+      "position": "Software Engineer (Outsourcer)",
+      "website": "http://www.sinfic.pt/",
+      "startDate": "May 2009",
+      "endDate": "June 2010",
+      "summary": "Security related project. Lots of cryptography, certificates, symmetric and asymmetric cyphers, KPI, CAS, openssl bindings for .NET, I18N. User authentication with gadgets, secure communications. Very big project with very high emphasis on security. Other minor projects related with geolocation and e-maps, and some internal applications.",
+      "highlights": []
+    },
+    {
+      "company": "Sonaecom",
+      "position": "Software Engineer (Outsourcer)",
+      "website": "",
+      "startDate": "May 2007",
+      "endDate": " January 2008",
+      "summary": "Evolutive maintenance of several of Sonaecom's IT projects: Optimus, Optimus Zone, Clix and Kanguru. Worked on several project types: ASP.NET, mobile web and a lot of OutSystems. The biggest project was an online shop for mobile games, musics and images.",
+      "highlights": []
+    },
+    {
+      "company": "Orion's Belt",
+      "position": "Software Engineer",
+      "website": "http://orionsbelt.eu",
+      "startDate": "April 2003",
+      "endDate": "December 2007",
+      "summary": "Orion's Belt was a web based game, with hundreds of players; responsibilities: architecture's design and implementation, localization infrastructure, marketing, and community handling. We started this project at school and maintained it on our own as a hobbie for five years.  The project was later supported and developed under PDM&FC's employment.",
+      "highlights": []
+    },
+    {
+      "company": "Safira",
+      "position": "Programmer",
+      "website": "http://safira.pt/",
+      "startDate": "October 2006",
+      "endDate": "April 2007",
+      "summary": "Worked on the Millenium BCP's online solution for private/corporate customers. Developed for the front-end using .NET and Quartz (Safira's front-end framework) and middleware using .NET, T-SQL, SOAP and XSLT. Was also encharged with deployments.",
+      "highlights": []
+    },
+    {
+      "company": "Instituto Politécnico de Setúbal",
+      "position": "Programmer",
+      "website": "",
+      "startDate": "September 2004",
+      "endDate": "December 2004",
+      "summary": "Development of an e-learning web application. Worked as a freelancer and implemented an ASP.NET application were professors and students could collaborate and exchange information easily.",
+      "highlights": []
+    },
+    {
+      "company": "Vantyx Systems",
+      "position": "Programmer",
+      "website": "",
+      "startDate": "April 2004",
+      "endDate": "August 2004",
+      "summary": "Web applications for the credit sellers market. Worked on Microsoft CRM customization. I had to build a web application on top of MS CRM that allowed customers to extend MS CRM to their needs. This was a part-time while studying.",
+      "highlights": []
+    },
+    {
+      "company": "Câmara Municipal da Amadora",
+      "position": "Trainee",
+      "website": "",
+      "startDate": "May 2000",
+      "endDate": "July 2000",
+      "summary": "My function on this part time job was to migrate lots of data in paper to a MS Access database made for the department's usage, and also make some minor changes to the application.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Instituto Superior de Engenharia de Lisboa",
+      "area": "Computer Science",
+      "studyType": "",
+      "startDate": "2000",
+      "endDate": "2006",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Frontend",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "React.js",
+        "ClojureScript"
+      ]
+    },
+    {
+      "name": "Server Side",
+      "level": "",
+      "keywords": [
+        "Clojure",
+        "Ruby on Rails"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": [
+        "PostgresSQL",
+        "MySQL",
+        "Redis"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Portuguese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Professional proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": [
+        "Triatlon",
+        "Crossfit"
+      ]
+    }
+  ],
+  "references": []
+}
